@@ -16,7 +16,8 @@ Notes to add:
 You can change the typing speed by varying time.sleep(random.uniform()) on line 199.
 The smaller te range and size of the number the faster the tying speed
 You can also vary time.sleep()on line 205
-The auto typer works at around 38 wp to 56 wpm but is motly above 40wpm
+The auto typer works at around 38 wpm to 56 wpm but is motly above 40wpm
 
-#This was made purely for educationak purposes
+#This was made purely for educationak
+lpurposes
 
